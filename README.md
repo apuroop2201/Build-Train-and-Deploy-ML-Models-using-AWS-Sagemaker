@@ -1,6 +1,6 @@
 # Build, Train, and Deploy a Machine Learning Model with Amazon SageMaker
 
-![SageMaker Logo]([(https://venturebeat.com/wp-content/uploads/2021/02/SageMaker.jpg?fit=750%2C385&strip=all)])
+![SageMaker Logo]([https://venturebeat.com/wp-content/uploads/2021/02/SageMaker.jpg?fit=750%2C385&strip=all])
 
 This repository contains code and resources for the tutorial "Build, Train, and Deploy a Machine Learning Model with Amazon SageMaker." This tutorial will guide you through the process of building, training, and deploying a machine learning model using Amazon SageMaker, a fully managed service that makes it easy to build, train, and deploy ML models at scale.
 
