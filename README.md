@@ -1,5 +1,3 @@
-# Build,Train and Deploy ML Models using AWS Sagemaker
-
 # Build, Train, and Deploy a Machine Learning Model with Amazon SageMaker
 
 ![SageMaker Logo](https://aws.amazon.com/sagemaker/)
